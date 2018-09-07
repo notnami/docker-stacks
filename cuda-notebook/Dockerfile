@@ -1,4 +1,4 @@
-FROM nvidia/cuda:9.1-cudnn7-devel
+FROM nvidia/cuda:9.2-cudnn7-devel
 
 # The following is based on 
 # https://github.com/jupyter/docker-stacks/blob/master/base-notebook/Dockerfile
